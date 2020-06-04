@@ -1,5 +1,5 @@
 # Site Settings
-name: Blog de Abhishek
+name: El Blog
 title: Blog|Abhishek 
 description: 
 tags:
@@ -15,6 +15,10 @@ menu:
     url: /
   - title: About
     url: /about
+  - title: Portfolio
+    url: /portfolio  
+  - title: Photography
+    url: /photography
 
 
 # Social Media Settings

@@ -3,6 +3,14 @@
   
   
     {
+      "title"    : "Why books should be your priority?",
+      "tags"     : "books and read",
+      "categories" : "life",
+      "url"      : "/why-books-should-be-your-priority/",
+      "date"     : "11/22/2018"
+    } ,
+  
+    {
       "title"    : "Abhishek&#39;s Blog",
       "tags"     : "",
       "categories" : "{{slug}}",
